@@ -1,6 +1,7 @@
 # Personal Portfolio Website
 
 Credits:
+---
 
 - Host: <br>
 	1. GithubPages (pages.github.com/)
