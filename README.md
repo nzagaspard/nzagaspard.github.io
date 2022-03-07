@@ -1,15 +1,16 @@
 # Personal Portfolio Website
 
 Credits:
-	- Host: 
-	      GithubPages (pages.github.com/)
+
+- Host: <br>
+	1. GithubPages (pages.github.com/)
 	
-	- Images:
-		Self
-		Unsplash (unsplash.com)
-	Icons:
-		Font Awesome (fontawesome.io)
-	Template: 
-		  html5up.net | @ajlkn
-	Form: 
-		Formspree (formspree.io)
+- Images: <br>
+	1. Self
+	2. Unsplash (unsplash.com)
+- Icons: <br>
+ 	1. Font Awesome (fontawesome.io)
+- Template: 
+	1. html5up.net | @ajlkn
+- Form: 
+ 	1. Formspree (formspree.io)
