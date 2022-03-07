@@ -1,9 +1,10 @@
 # Personal Portfolio Website
 
 Credits:
-	Host: 
+	- Host: 
 	      GithubPages (pages.github.com/)
-	Images:
+	
+	- Images:
 		Self
 		Unsplash (unsplash.com)
 	Icons:
